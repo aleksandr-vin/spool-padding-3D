@@ -6,7 +6,7 @@
 $fa = 1;
 
 thickness = 1; // wall thickness
-outer_dia = 53; // wall outer diameter -- should fit into the spool
+outer_dia = 51; // wall outer diameter -- should fit into the spool
 outer_dia_border = 5;
 inner_dia = 30; // holder dia
 spindel_len = 85;
